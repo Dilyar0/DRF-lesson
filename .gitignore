@@ -1,0 +1,4 @@
+.idea
+templates
+db.sqlite3
+venv
